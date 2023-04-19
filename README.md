@@ -1,12 +1,9 @@
 # paulineFirstClassProject
 First Python Project regarding an auto store.
 
-
-First Python Class Project
 This program processes sales orders for an auto shop that
 sells spare/ repair parts and computes appropriate output
 information.
-
 - use dynamic functions
 - orders made by phone
 - application computes output information
